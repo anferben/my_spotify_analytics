@@ -1,0 +1,110 @@
+{
+  "playlists": [
+    {
+      "name": "Relax",
+      "lastModifiedDate": "2021-11-10",
+      "items": [
+        {
+          "track": {
+            "trackName": "Musica para Estudiar",
+            "artistName": "Relax 4 Relax",
+            "albumName": "La Mejor Musica Relajante para Tecnicas de Meditacion con Sonidos Naturales",
+            "trackUri": "spotify:track:54Rs2Ykyzst0kHTL0YezCQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "New Start",
+            "artistName": "Nova Cantabile",
+            "albumName": "Clear Voice",
+            "trackUri": "spotify:track:1hLLcQHEakwCMj8GJO8r7e"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Blue",
+            "artistName": "Deep Zones",
+            "albumName": "The Blue",
+            "trackUri": "spotify:track:1eApI2GBLAQgmmWkV8AeVQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sweet Iris",
+            "artistName": "Lukkii and The Whale",
+            "albumName": "Pink Lotus",
+            "trackUri": "spotify:track:3irGdDT3AonsGCNgpx7eAt"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "A Space Within a Space",
+            "artistName": "Escape Gravity",
+            "albumName": "A Space Within a Space",
+            "trackUri": "spotify:track:37WWBXEkERdURM1S9SCuwW"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Floating Through Space",
+            "artistName": "Fallin Moon",
+            "albumName": "Floating Through Space",
+            "trackUri": "spotify:track:39esahmt52CvX6TsqlhGEE"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Underwater Manifestations",
+            "artistName": "Heartbeat Sirens",
+            "albumName": "Underwater Manifestations",
+            "trackUri": "spotify:track:7oZCirsU9Gx3ipUMWpkQKb"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Maestros",
+      "lastModifiedDate": "2018-09-05",
+      "items": [
+        {
+          "track": {
+            "trackName": "Moonlight Sonata",
+            "artistName": "Ludwig van Beethoven",
+            "albumName": "Dark Classical Music for Halloween",
+            "trackUri": "spotify:track:4c93StqOKkd94pT3BLJwfV"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mozart: Requiem in D Minor, K. 626: VIII. Lacrimosa",
+            "artistName": "Wolfgang Amadeus Mozart",
+            "albumName": "40 Most Beautiful Choral Classics",
+            "trackUri": "spotify:track:3vVhTQOKjWWHJQ7AaxNd1T"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    }
+  ]
+}
